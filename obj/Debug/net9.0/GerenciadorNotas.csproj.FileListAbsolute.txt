@@ -1,0 +1,14 @@
+C:\Users\caiof\GerenciadorNotas\bin\Debug\net9.0\GerenciadorNotas.exe
+C:\Users\caiof\GerenciadorNotas\bin\Debug\net9.0\GerenciadorNotas.deps.json
+C:\Users\caiof\GerenciadorNotas\bin\Debug\net9.0\GerenciadorNotas.runtimeconfig.json
+C:\Users\caiof\GerenciadorNotas\bin\Debug\net9.0\GerenciadorNotas.dll
+C:\Users\caiof\GerenciadorNotas\bin\Debug\net9.0\GerenciadorNotas.pdb
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\GerenciadorNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\GerenciadorNotas.AssemblyInfoInputs.cache
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\GerenciadorNotas.AssemblyInfo.cs
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\GerenciadorNotas.csproj.CoreCompileInputs.cache
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\GerenciadorNotas.dll
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\refint\GerenciadorNotas.dll
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\GerenciadorNotas.pdb
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\GerenciadorNotas.genruntimeconfig.cache
+C:\Users\caiof\GerenciadorNotas\obj\Debug\net9.0\ref\GerenciadorNotas.dll
